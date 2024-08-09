@@ -17,7 +17,7 @@ This is a Python-based GUI application that allows users to convert XML data to 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/JHVIW/XML-TO-ZPL.git
+   git clone [https://github.com/JHVIW/XML-TO-ZPL.git](https://github.com/JHVIW/XML-TO-ZPL-Converter.git)
    cd xml-to-zpl-converter
    ```
 
